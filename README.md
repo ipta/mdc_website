@@ -1,4 +1,4 @@
-# An Acoustical Analogue of a Galactic-scale Gravitational-Wave Detector
+# The International Pulsar Timing Array Mock Data Challenges
 
 This repository links to various components regarding [Lam et al. 2018c][1] ([arXiv][2]). See the [dedicated webpage][3] for more information. Get the code [here][4].
 
